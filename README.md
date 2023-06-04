@@ -1,10 +1,11 @@
-<h1 align="center"> 〘 ᴀᴛʟᴀꜱ-ᴍᴅ 〙
+<h1 align="center"> 〘 ᴀᴛʟᴀꜱ-ᴍᴅ Djalega++ 〙
 
 </h1>
 
 <p align="center">
 <a href="https://github.com/REDZEOX/Atlas-MD">
     <img src="https://i.ibb.co/r2dyh2S/20230213-154752.jpg">
+Fedora
   </a>
 
 <p align="center"> 
