@@ -46,7 +46,7 @@ Fedora
 </p>
 <br>
   
-<a href="https://repl.it/github/FantoX001/Atlas-MD">
+<a href="https://repl.it/github/soukousoukou/Atlas-MD">
 <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
  </a>
 <br>
