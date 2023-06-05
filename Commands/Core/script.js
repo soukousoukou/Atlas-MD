@@ -4,7 +4,7 @@ const fs = require('fs')
 module.exports = {
     name: "script",
     alias: ["repo","sc","sourcecode"],
-    desc: "Say hello to bot.",
+    desc: "Dites bonjour au king *Djalega++*.",
     react: "🍁",
     category: "Core",
     start: async(Miku, m,{pushName,prefix}) => {
