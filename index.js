@@ -150,7 +150,7 @@ async function startMiku() {
             level: 'silent'
         }),
         printQRInTerminal: true,
-        browser: ['Atlas MD', 'Safari', '1.0.0'],
+        browser: ['Djalega Bot', 'Safari', '1.0.0'],
         auth: state,
         version
     })
