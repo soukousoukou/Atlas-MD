@@ -108,7 +108,7 @@ global.charID7 = {
   botImage5 : "https://images7.alphacoders.com/121/1211490.jpg",
   botImage6 : "https://images3.alphacoders.com/122/1223868.png",
 }
-global.charId8={
+global.charID8={
 botName : "Djalega++",
 botVideo : fs.readFileSync("./Assets/djalega1.mp4"),
 botImage1 :"https://wallpapercave.com/uwp/uwp3772906.jpeg",
