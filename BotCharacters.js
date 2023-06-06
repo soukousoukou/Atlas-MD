@@ -112,7 +112,10 @@ botName : "Djalega++",
 botVideo : fs.readFileSync("./Assets/marin.mp4"),
 botImage1 :"https://wallpapercave.com/uwp/uwp3772906.jpeg",
 botImage2 :"https://wallpapercave.com/uwp/uwp3773183.jpeg",
-botImage3 : "https://wallpapercave.com/uwp/uwp3773175.png"
+botImage3 : "https://wallpapercave.com/uwp/uwp3773175.png",
+botImage4 : "https://wallpapercave.com/uwp/uwp3783063.jpeg",
+botImage5 : "https://wallpapercave.com/uwp/uwp3783066.jpeg",
+botImage6 :"https://wallpapercave.com/uwp/uwp3783067.jpeg",
     
     
    
