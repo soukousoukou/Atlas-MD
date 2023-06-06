@@ -111,7 +111,7 @@ Fedora
 <h2>💫 ᴘʀᴏᴊᴇᴄᴛ ᴅᴇᴘᴇɴᴅᴇɴᴄɪᴇꜱ :
 </h2>
 <br>
-
+Djalega++
 - [ʙᴀɪʟᴇʏꜱ ʟɪʙʀᴀʀʏ](https://github.com/adiwajshing/Baileys)
 - [ɪɴꜱᴛᴀ-ғᴇᴛᴄʜᴇʀ](https://github.com/Gimenz/insta-fetcher)
 - [ғᴀɴᴛᴏꭗ ᴀᴘɪꜱ](https://fantox-api.vercel.app/)
