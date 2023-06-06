@@ -12,6 +12,7 @@ const { mkchar } = require("./Database/dataschema.js");
 5 --- Chika
 6 --- Miku
 7 --- Marin Kitagawa
+8 --- Djalega++
 
 Image Source: https://wall.alphacoders.com/
 Image Source: https://wallpapercave.com/
@@ -109,7 +110,7 @@ global.charID7 = {
 }
 global.charId8={
 botName : "Djalega++",
-botVideo : fs.readFileSync("./Assets/marin.mp4"),
+botVideo : fs.readFileSync("./Assets/djalega1.mp4"),
 botImage1 :"https://wallpapercave.com/uwp/uwp3772906.jpeg",
 botImage2 :"https://wallpapercave.com/uwp/uwp3773183.jpeg",
 botImage3 : "https://wallpapercave.com/uwp/uwp3773175.png",
